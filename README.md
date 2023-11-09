@@ -70,6 +70,12 @@ services:
 [1]: https://portal.edu.gva.es/iesjaumeeljust/  
 [2]: https://github.com  
 
+**Imágenes**  
+Incluir una imagen al documento que sea un enlace a una URL externa.
+![](https://cdn.ethic.es/wp-content/uploads/2023/03/imagen.jpg)
+
+
+
 **Listas**  
 
 **Listas desordenadas**  
