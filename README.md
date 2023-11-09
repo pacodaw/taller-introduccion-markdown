@@ -138,7 +138,7 @@ Este texto no es una cita.
 **Comentarios**  
 Para poner un comentario en Markdown y que su contenido no sea renderizado, se utiliza la misma sintaxis que los comentarios de HTML.  
 
-Párrafo 1.
+Párrafo 1. Entre este párrafo y el siguiente hay un comentario que no se debe ver, se perdió siguiendo al conejo a través de la madriguera  
 
 <!-- Este texto es un comentario y no será renderizado -->
 <!--Este texto es un comentario y no será renderizado--> 
