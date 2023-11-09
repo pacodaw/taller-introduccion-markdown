@@ -64,7 +64,7 @@ services:
       - ./src:/var/www/html
 ```
 **Enlaces**  
-[Enlace a la página web del IES Jaume II El Just](https://portal.edu.gva.es/iesjaumeeljust/)  
+[Enlace a NOMBRES DE LOS SÍMBOLOS EN PROGRAMACIÓN](https://programadorwebvalencia.com/nombres-de-los-simbolos-en-programacion/)  
 
 **Otra forma de gestionar enlaces**  
 [1]: https://portal.edu.gva.es/iesjaumeeljust/  
