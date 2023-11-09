@@ -107,11 +107,12 @@ services:
 4. Item 4
 
 **Tablas**  
-| Encabezado 1 | Encabezado 2 | Encabezado 3
-| --- | --- | --- | ---  
-| Fila 1.1 | Fila 1.2 | Fila 1.3  
-| Fila 2.1 | Fila 2.2 | Fila 2.3  
-| Fila 3.1 | Fila 3.2 | Fila 3.3  
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1    | Cell 2   | Cell 3   |
+| Row 2    | Cell 5   | Cell 6   |
+| Row 3    | Cell 8   | Cell 9   |
+ 
 
 **Citar textos**  
 
