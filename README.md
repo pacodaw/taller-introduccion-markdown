@@ -79,9 +79,9 @@ Incluye la imagen que has añadido al repositorio dentro del documento.
 
 ![](https://github.com/pacodaw/taller-introduccion-markdown/blob/main/assets/images/Follow_the_white_rabbit.png) 
 
-Enlace desde este archivo README.md al [nuevo documento][new-doc] que acabo de crear.  
+Enlace desde este archivo README.md al nuevo documento en Markdown que acabo de crear.  
 
-[new-doc](https://github.com/pacodaw/taller-introduccion-markdown/blob/main/Nuevo%20documento%20Markdown.md)  
+[](https://github.com/pacodaw/taller-introduccion-markdown/blob/main/Nuevo%20documento%20Markdown.md)  
 
 **Listas**  
 
