@@ -15,6 +15,8 @@ Esto es un encabezado h6
  **Negrita y cursiva**  
  
 **Texto en negrita con la etiqueta de asteriscos dobles**
+
+
 __Texto en negrita con la etiqueta de barras bajas dobles__
 
 *Texto en cursiva mediante aasteriscos*
