@@ -26,7 +26,8 @@ Esto es un encabezado h6
 __Texto en negrita con la etiqueta de barras bajas dobles__
 
   
-*Texto en cursiva mediante aasteriscos*
+*Texto en cursiva mediante aasteriscos*  
+
 *Texto en cursiva mediante barras bajas*
 
   
@@ -37,8 +38,8 @@ En esta frase estamos resaltado el comando `ls -la`.
   
 **Bloques de código**
 
-Al inicio del bloque se puede indicar de forma opcional cuál es el tipo de contenido que contiene el bloque para resaltar las palabras reservadas cuando se renderice. Por ejemplo: bash, python, yaml, json, html, javascript, etc.  
-Para resaltar bloques de código utilizamos tres acentos graves al principio y final del bloque a resaltar  
+ Al inicio del bloque se puede indicar de forma opcional cuál es el tipo de contenido que contiene el bloque para resaltar las palabras reservadas cuando se renderice. Por ejemplo: bash, python, yaml, json, html, javascript, etc.  
+ Para resaltar bloques de código utilizamos tres acentos graves al principio y final del bloque a resaltar  
 ```
 sudo systemctl start apache2
 ```
@@ -105,7 +106,21 @@ services:
 3. Item 3  
 4. Item 4
 
+**Tablas**  
+| Encabezado 1 | Encabezado 2 | Encabezado 3
+| --- | --- | --- | ---
+| Fila 1.1 | Fila 1.2 | Fila 1.3
+| Fila 2.1 | Fila 2.2 | Fila 2.3
+| Fila 3.1 | Fila 3.2 | Fila 3.3
 
+**Comentarios**  
+Para poner un comentario en Markdown y que su contenido no sea renderizado, se utiliza la misma sintaxis que los comentarios de HTML.  
+
+Párrafo 1.
+
+<!- Este texto es un comentario y no será renderizado -->
+
+Párrafo 2.  
 
 
 
