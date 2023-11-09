@@ -126,7 +126,7 @@ Para poner un comentario en Markdown y que su contenido no sea renderizado, se u
 Párrafo 1.
 
 <!-- Este texto es un comentario y no será renderizado -->
-
+<!--Este texto es un comentario y no será renderizado--> 
 Párrafo 2.  
 
 
