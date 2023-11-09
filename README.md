@@ -66,6 +66,8 @@ services:
 **Enlaces**  
 [Enlace a NOMBRES DE LOS SÍMBOLOS EN PROGRAMACIÓN](https://programadorwebvalencia.com/nombres-de-los-simbolos-en-programacion/)  
 
+[Taller de introducción a Markdown](https://josejuansanchez.org/iaw/taller-markdown/index.html#forzar-un-salto-de-l%C3%ADnea) 
+
 **Otra forma de gestionar enlaces**  
 [1]: https://portal.edu.gva.es/iesjaumeeljust/  
 [2]: https://github.com  
