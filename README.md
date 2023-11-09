@@ -74,6 +74,10 @@ services:
 Incluir una imagen al documento que sea un enlace a una URL externa.
 ![](https://cdn.ethic.es/wp-content/uploads/2023/03/imagen.jpg)
 
+Crea un directorio llamado images en el repositorio y añade una imagen.  
+Incluye la imagen que has añadido al repositorio dentro del documento.  
+
+![](https://github.com/pacodaw/taller-introduccion-markdown/blob/main/assets/images/Follow_the_white_rabbit.png) 
 
 
 **Listas**  
