@@ -81,7 +81,7 @@ Incluye la imagen que has añadido al repositorio dentro del documento.
 
 Enlace desde este archivo README.md al nuevo documento en Markdown que acabo de crear.  
 
-[](https://github.com/pacodaw/taller-introduccion-markdown/blob/main/Nuevo%20documento%20Markdown.md)  
+![Nuevo documento Markdown](https://github.com/pacodaw/taller-introduccion-markdown/blob/main/Nuevo%20documento%20Markdown.md)  
 
 **Listas**  
 
